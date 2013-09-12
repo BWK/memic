@@ -1,0 +1,12 @@
+
+#clojure site 
+http://clojure.org/
+
+# This is a tutorial for clojure on Heroku (also an option I didn't consider# could be mad sweet.
+https://devcenter.heroku.com/articles/getting-started-with-clojure
+
+#sick tutorial
+http://java.ociweb.com/mark/clojure/article.html
+
+#clojure web app tutorial
+https://devcenter.heroku.com/articles/clojure-web-application
